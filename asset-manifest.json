@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/My_new_repo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/My_new_repo/static/js/main.bc026769.chunk.js",
+    "main.js.map": "/My_new_repo/static/js/main.bc026769.chunk.js.map",
+    "runtime-main.js": "/My_new_repo/static/js/runtime-main.9d2eb604.js",
+    "runtime-main.js.map": "/My_new_repo/static/js/runtime-main.9d2eb604.js.map",
+    "static/css/2.11829350.chunk.css": "/My_new_repo/static/css/2.11829350.chunk.css",
+    "static/js/2.c3e2286d.chunk.js": "/My_new_repo/static/js/2.c3e2286d.chunk.js",
+    "static/js/2.c3e2286d.chunk.js.map": "/My_new_repo/static/js/2.c3e2286d.chunk.js.map",
+    "index.html": "/My_new_repo/index.html",
+    "precache-manifest.5e7b8857b7838f5a5aa1d305fa2d211b.js": "/My_new_repo/precache-manifest.5e7b8857b7838f5a5aa1d305fa2d211b.js",
+    "service-worker.js": "/My_new_repo/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/My_new_repo/static/css/2.11829350.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/My_new_repo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c3e2286d.chunk.js.LICENSE.txt": "/My_new_repo/static/js/2.c3e2286d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d2eb604.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.c3e2286d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.bc026769.chunk.js"
+  ]
+}
